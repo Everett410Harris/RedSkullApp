@@ -8,3 +8,4 @@ This web application is an ASP.NET Core application w/ SQL Server Database(DB) &
 - [ ] Create CRUD compontents
 - [ ] Create SQL Query
 - [ ] Double check Unit Test
+- [ ] Add design ideas to application
