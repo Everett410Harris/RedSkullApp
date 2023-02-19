@@ -4,8 +4,7 @@ This web application is an ASP.NET Core application w/ SQL Server Database(DB) &
 
 - [ ] Design layout of Pages w/ images, background and content location in wireframe
 - [ ] Create Readme
-- [ ] Create REGEX for customer information and ask for verification
-- [ ] Create CRUD compontents
-- [ ] Create SQL Query
-- [ ] Double check Unit Test
-- [ ] Add design ideas to application
+- [ ] Create customer DB
+- [ ] Create CRUD functions
+- [ ] Deploy Unit Test
+- [ ] Finialize layout format
