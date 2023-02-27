@@ -8,3 +8,4 @@ This web application is an ASP.NET Core application w/ SQL Server Database(DB) &
 - [ ] Connect SQL database to project
 - [ ] Create Unit Testing
 - [ ] Finialize layout format
+- [ ] Link design repo to this repo
